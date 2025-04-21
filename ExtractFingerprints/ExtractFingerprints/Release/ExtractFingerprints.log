@@ -1,0 +1,17 @@
+﻿Build started 12/12/2024 3:07:15 PM.
+     1>Project "E:\backup\zortag\programs\manufacturing\process_in_office\ExtractFingerprints\ExtractFingerprints\ExtractFingerprints.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\ExtractFingerprints.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ExtractFingerprints.vcxproj -> E:\backup\zortag\programs\manufacturing\process_in_office\ExtractFingerprints\Release\ExtractFingerprints.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\ExtractFingerprints.unsuccessfulbuild".
+         Touching "Release\ExtractFingerprints.lastbuildstate".
+     1>Done Building Project "E:\backup\zortag\programs\manufacturing\process_in_office\ExtractFingerprints\ExtractFingerprints\ExtractFingerprints.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
